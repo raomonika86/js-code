@@ -1,3 +1,5 @@
+// ***************** Conversion *********************
+
 // let score = null
 // let score = undefined
 // let score = 33
@@ -25,6 +27,22 @@ let someNumber = 33
 
 let changeNumber = String(someNumber)
 // console.log(changeNumber);
-console.log(typeof changeNumber);
+// console.log(typeof changeNumber);
+
+
+
+// ***************** Operation *********************
+
+let value = 3
+
+let negValue = -value
+console.log(negValue)
+
+// console.log(2+2)
+// console.log(2-2)
+// console.log(2*2)
+// console.log(2**2)
+// console.log(2%2)
+// console.log(2/2)
 
 
