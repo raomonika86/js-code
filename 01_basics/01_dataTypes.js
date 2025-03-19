@@ -23,3 +23,9 @@ let isloggedIn = false
 console.log(typeof undefined); // undefined 
 console.log(typeof null); // null
 
+// console.log(+true);
+// console.log(true);
+// console.log(typeof true);
+// console.log(+false);
+// console.log(false);
+
